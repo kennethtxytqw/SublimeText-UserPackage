@@ -1,0 +1,4 @@
+[
+	{"keys": ["alt+command+l"], "command": "reindent", "args": {"single_line": false}},
+	{ "keys": ["ctrl+g"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} }
+]
