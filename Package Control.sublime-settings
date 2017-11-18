@@ -7,11 +7,23 @@
 	[
 		"Boxy Theme",
 		"D3js v4",
+		"ESLint",
+		"Go To Definition",
 		"HighlightWords",
+		"HTML-CSS-JS Prettify",
 		"JSONLint",
 		"Package Control",
 		"Pretty JSON",
+		"React ES6 Snippets",
+		"React IDE",
+		"React Native Autocomplete",
+		"ReactJS",
+		"SCSS",
+		"SublimeLinter",
+		"SublimeLinter-jsxhint",
 		"SyntaxFold",
+		"Terminal",
+		"TerminalView",
 		"TernJS"
 	]
 }
